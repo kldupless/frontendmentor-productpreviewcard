@@ -107,7 +107,7 @@ h1{
 }
 
 .product-image{
-  background: center / cover no-repeat url('/images/image-product-mobile.jpg');
+  background: center / cover no-repeat url('https://kldupless.github.io/frontendmentor-productpreviewcard/images/image-product-mobile.jpg');
   height: 50%;
 }
 
@@ -175,7 +175,7 @@ main {
 
 @media only screen and (min-width: 1440px) {
   .product-image{
-    background: center / cover no-repeat url('/images/image-product-desktop.jpg');
+    background: center / cover no-repeat url('https://kldupless.github.io/frontendmentor-productpreviewcard/images/image-product-desktop.jpg');
     width: 50%;
     height: auto;
   }
